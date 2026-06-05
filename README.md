@@ -3,3 +3,4 @@
 - [Ansible Installation](./install-ansible.sh)
 - [Crowdsec Installation](./install-crowdsec.sh)
 - [Docker Installation](./install-docker.sh)
+- [Nginx basic Reverse Proxy (Docker + Nginx)](./create-rev-proxy-nginx.sh)
